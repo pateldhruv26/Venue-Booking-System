@@ -1,2 +1,2 @@
 # Venue-Booking-System
-Venue Booking System helps book events and appointments easily.
+The Venue Booking System is a software that helps people book event venues easily. It connects users looking for venues with venue owners. The goal is to make reserving venues, like for weddings or parties, straightforward. Users can see venue options, check if they're available, and book them. Venue owners, known as agents, can add venues, manage bookings, and see reserved venues. This report covers the system's features, how it works, and how it uses object-oriented programming. It improves the experience for both users and venue owners.
